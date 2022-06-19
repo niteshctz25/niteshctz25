@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niteshctz25
 - 👀 I like to play football.
-- 🌱 I’m currently learning coding
+- 🌱 I’m Student Developer
 - 📫 How to reach me on Instagram (Profile name: ne_tej_)
 
 <!---
