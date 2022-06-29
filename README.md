@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @niteshctz25
-- 👀 I like to play football.
+- 👋 Hi, I’m Nitesh Singh
 - 🌱 I’m Student Developer
 - 📫 How to reach me on Instagram (Profile name: ne_tej_)
 
