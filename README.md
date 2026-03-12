@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh Singh
-- 🌱 I’m Student Developer
+- 🌱 I’m Software Engineer
 - 📫 How to reach me on Instagram (Profile name: ne_tej_)
 
 <!---
